@@ -164,6 +164,24 @@ export default function Home() {
             )}
           </div>
         </div>
+<div className="mt-10 rounded-2xl border border-neutral-800 bg-neutral-900/30 p-6 text-center">
+  <h2 className="text-xl font-semibold">
+    Get the Printable QR Pack
+  </h2>
+
+  <p className="mt-2 text-neutral-400">
+    Download high resolution QR codes and printable posters for your business.
+  </p>
+
+  <a
+    href="https://square.link/u/B1SSGqhP"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block mt-4 rounded-xl px-6 py-3 font-semibold bg-white text-black hover:bg-neutral-200"
+  >
+    Buy Printable Pack – £9
+  </a>
+</div>
 
         <footer className="mt-10 text-xs text-neutral-500">
           This MVP runs locally and does not store your data.
